@@ -1,0 +1,157 @@
+@media only screen and (max-width: 763px) {
+    .navbar {
+        position: relative;
+
+        padding: 2%;
+    }
+
+    .banner2 {
+        /* background-image: url(http://d25qcccc9wk2aa.cloudfront.net/public/uploads/images/home-page/911fa76b-192e-4d26-a004-88ca076de1e0-1652174596.png); */
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 40%;
+        height: 126vh;
+
+
+    }
+}
+
+/* main size  */
+@media only screen and (max-width: 763px) {
+    .home {
+        overflow-x: hidden;
+    }
+
+    .navbar {
+
+        position: sticky;
+        top: 0px;
+        
+    }
+
+
+    .HomeBanner h1 {
+        font-size: 22px;
+        margin-top: 20px;
+
+        text-align: center;
+    }
+
+    .HomeBanner p {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .hbanner {
+        background-image: url(https://webartdevelopers.com/blog/wp-content/uploads/2019/02/Pure-CSS-Animated-Background.gif);
+        color: #fff;
+    }
+
+    .homeicon {
+        display: flex;
+        justify-content: center;
+    }
+
+    .banner2 {
+        background-image: url(http://d25qcccc9wk2aa.cloudfront.net/public/uploads/images/home-page/911fa76b-192e-4d26-a004-88ca076de1e0-1652174596.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 60vh;
+        background-size: 70vh;
+        width: 80vh;
+    }
+
+    .homesectation-2 h4 {
+        font-size: 16px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .homesectation-2 p {
+        font-size: 15px;
+        margin-bottom: 20px;
+    }
+
+    .homesectation-2 img {
+        width: 40px;
+    }
+
+    .homesectation-2 {
+        padding: 2rem;
+
+    }
+
+    .cardsimage {
+        display: none;
+    }
+
+    .cantring,
+    li {
+        text-align: center;
+        list-style: none;
+        padding: 2px;
+        font-size: 15px;
+
+    }
+
+
+.footer-1
+{
+    background-image: url(https://i.gifer.com/76YS.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.clicklink a
+{
+    color: #fff;
+}
+    .footer-1 
+    {
+      text-align: center;
+     
+      color: #fff;
+        
+    
+    }
+    .socoalicon svg
+    {
+        color: #fff
+    }
+
+    /* home part is done  */
+
+/* home part is done  */;
+/* footer  */
+
+/* course part   */
+
+
+
+
+}
+
+/* man size  */
+
+
+
+
+
+
+@media only screen and (max-width: 400) {
+    .navbar {
+        padding: 28px;
+    }
+ 
+    .banner2 {
+        background-image: url(http://d25qcccc9wk2aa.cloudfront.net/public/uploads/images/home-page/911fa76b-192e-4d26-a004-88ca076de1e0-1652174596.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 40%;
+        min-height: 20vh;
+
+
+    }
+}
